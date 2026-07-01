@@ -1,21 +1,7 @@
-Hi there!
+Hi there! 👋
 
-I’m Avartan, a Computer Science Engineering student from India.
-I enjoy building practical web applications and learning how real software systems work.
+I'm Avartan Athlay, a Computer Science Engineering graduate from India passionate about building intelligent software, AI-powered applications, and scalable full-stack web solutions.
 
-These days I’m focused on:
-• MERN stack development  
-• Learning TypeScript and modern React  
-• Understanding system design and backend architecture  
-• Building small SaaS-style projects  
+🚀 Currently exploring: AI & Machine Learning • Computer Vision • TypeScript • System Design • Cloud Technologies
 
-Tech I use:
-
-• JavaScript  
-• React  
-• Node.js / Express  
-• MongoDB  
-• Tailwind CSS  
-• Git & GitHub  
-
-Some things I built:
+💻 Tech Stack: Java • Python • JavaScript • TypeScript • React • Node.js • Express • MongoDB • MySQL • OpenCV • YOLO • Git
