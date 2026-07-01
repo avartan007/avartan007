@@ -1,41 +1,9 @@
-# Hi there! 👋
+# Hi, I'm Avartan 👋
 
-I'm **Avartan Athlay**, a Computer Science Engineering graduate from India passionate about building AI-powered applications, full-stack web platforms, and developer tools.
+Computer Science Engineering graduate from India 🇮🇳
 
-## 🚀 Currently Exploring
+I build AI-powered applications, real-time systems, and full-stack web platforms.
 
-- AI & Machine Learning
-- Computer Vision
-- TypeScript
-- System Design
-- Cloud Technologies
-
-## 💻 Tech Stack
-
-**Languages**
-
-Java • Python • JavaScript • TypeScript • C++
-
-**Frontend**
-
-React • HTML • CSS • Tailwind CSS
-
-**Backend**
-
-Node.js • Express.js • Flask
-
-**Database**
-
-MongoDB • MySQL • SQLite
-
-**AI**
-
-OpenCV • YOLO • Whisper
-
-**Tools**
-
-Git • GitHub • Docker • VS Code
-
----
+**Currently exploring:** AI • Computer Vision • TypeScript • Cloud
 
 ⭐ Always building, always learning.
